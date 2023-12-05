@@ -14,3 +14,4 @@ For øktene
 ser vi at den lengste rekka med stigane repitisjonar er ```125, 188, 284, 301``` som er totalt 898 repitisjonar.
 
 ## Output:
+> Nissen reppet, i den lengste streaken med økende antall reps hver dag, 969 reps over 5 dager!
