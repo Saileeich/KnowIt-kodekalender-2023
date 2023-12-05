@@ -13,4 +13,4 @@ Nissen har glemt koden til en av leketøyfabrikkene sine. Men frykt ikke! Han hu
 ## Output:
 > Koden er 642344
 
-> Tid brukt: 27.8939074s
+> Tid brukt: 5.3635607s
