@@ -1,3 +1,5 @@
+use std::time::{Duration, Instant};
+
 fn sjekk_for_primtall(n: u64) -> bool {
     if n < 2 {
         return false;
@@ -20,6 +22,8 @@ fn summer_siffer(mut n: u64) -> u64 {
 }
 
 fn main() {
+    let start = Instant::now();
+
     let mut kode: i32 = 0;
     for i in 1..=100000000 {
         let siffer_sum: u64 = summer_siffer(i);
@@ -27,5 +31,9 @@ fn main() {
             kode += 1;
         }
     }
-    println!("Koden er {}", kode)
+
+    let duration = start.elapsed();
+
+    println!("Koden er {}", kode);
+    println!("Tid brukt: {:?}", duration);
 }
