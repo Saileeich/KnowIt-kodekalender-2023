@@ -1,4 +1,4 @@
-use std::time::{Duration, Instant};
+use std::time::{Instant};
 
 fn sjekk_for_primtall(n: u64) -> bool {
     if n < 2 {

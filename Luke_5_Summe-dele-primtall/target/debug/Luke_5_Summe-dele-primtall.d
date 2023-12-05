@@ -1,0 +1,1 @@
+C:\Users\saile\Desktop\KnowIt\ Kodekalender\ 2023\Luke_5_Summe-dele-primtall\target\debug\Luke_5_Summe-dele-primtall.exe: C:\Users\saile\Desktop\KnowIt\ Kodekalender\ 2023\Luke_5_Summe-dele-primtall\src\main.rs
