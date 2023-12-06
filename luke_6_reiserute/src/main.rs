@@ -46,7 +46,7 @@ fn main() {
 
 fn regn_avstanden(x1: i32, y1: i32, x2: i32, y2: i32) -> f32 {
     let dif_x: f32 = (x1 - x2)
-        .abs() 
+        .abs()
         as f32;
     let dif_y: f32 = (y1 - y2)
     .abs() 

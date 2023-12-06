@@ -5,6 +5,7 @@ Julenissen skal levere pakker til alle byene i landet og har fått utlevert en r
 
 Ruta ligger i fila rute.txt. Hver linje i fila representerer koordinatet til én by. Julenissen starter og avslutter reisen sin i samme by med koordinatet -1000,-400. Dette koordinatet betyr at byen ligger 1000 km vestover og 400 km sørover.
 
+## Oppgave
 Hvert reinsdyr spiser 1 kg lyng og lav per tusende kilometer. Julenissen har ni reinsdyr. Hvor mange kg lyng og lav trenger julenissen ta med seg? Han orker ikke måle så nøye så rund opp til nærmeste heltall.
 
 ## Output:
