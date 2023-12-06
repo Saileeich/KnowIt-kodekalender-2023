@@ -9,3 +9,5 @@ Hvert reinsdyr spiser 1 kg lyng og lav per tusende kilometer. Julenissen har ni 
 
 ## Output:
 > Julenissen reiser totalt 17745.586km. Da trenger han minst 159.71028kg lyng og lav for å mate reinsdyrene sine. Han vil derfor ta med 160kg lyng og lav.
+
+> Tid brukt: 853.6µs
