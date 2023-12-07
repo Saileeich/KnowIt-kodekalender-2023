@@ -11,4 +11,5 @@ Hvor mange elementer mindre enn 100 000 er det i rekken?
 
 ## Output:
 > Det er 23111 ikkesette tall mellom 0 og 100.000
+
 > Tid brukt: 451.8539ms
