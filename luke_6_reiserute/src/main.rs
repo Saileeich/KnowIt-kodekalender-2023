@@ -32,7 +32,9 @@ fn main() {
     }
 
     println!(
-        "Julenissen reiser totalt {:?}km. Da trenger han minst {:?}kg lyng og lav for å mate reinsdyrene sine. Han vil derfor ta med {:?}kg lyng og lav.",
+        "Julenissen reiser totalt {:?}km.
+        Da trenger han minst {:?}kg lyng og lav for å mate reinsdyrene sine. 
+        Han vil derfor ta med {:?}kg lyng og lav.",
         tot_avstand,
         ((tot_avstand * 9.0) / 1000.0),
         ((tot_avstand * 9.0) / 1000.0)
@@ -51,8 +53,7 @@ fn regn_avstanden(x1: i32, y1: i32, x2: i32, y2: i32) -> f32 {
     let dif_y: f32 = (y1 - y2)
     .abs() 
     as f32;
-    return (
-        (dif_x.powf(2.0)) 
-        + (dif_y.powf(2.0)))
+    return (dif_x.powf(2.0) 
+        + dif_y.powf(2.0))
         .sqrt();
 }
